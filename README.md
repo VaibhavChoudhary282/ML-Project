@@ -1,6 +1,11 @@
 # ML-Project
 Email Spam Classification
 Email spam is nothing but junk email or unsolicited bulk emails sent through the email system. It refers to the use of an email system to send unsolicited emails especially advertising emails to a group of recipients
+
+
+
+
+
 Bayes' Theorem:
 Bayes' theorem is also known as Bayes' Rule or Bayes' law, which is used to determine the probability of a hypothesis with prior knowledge. It depends on the conditional probability.
 The formula for Bayes' theorem is given as:
